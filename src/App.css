@@ -14,3 +14,21 @@ ul {
 button {
     margin: 0 5px;
 }
+
+.error {
+    border: red 1px solid;
+}
+
+.error-message {
+    color: red;
+}
+
+.active-filter {
+    background-color: aquamarine;
+    border: 1px black solid;
+    border-radius: 3px;
+}
+
+.is-done {
+    opacity: 0.5;
+}
